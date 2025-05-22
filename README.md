@@ -5,7 +5,7 @@
 ### Clone the Repository
 
 ```bash
-git clone (https://github.com/ajilkumar/Whatsapp-Chat.git)
+git clone https://github.com/ajilkumar/Whatsapp-Chat.git
 cd WhatsappChat
 ```
 ### Install dependencies
@@ -19,6 +19,6 @@ npm start
 ```python
 The Website will be available at http://localhost:3000
 ```
-### [live demo](https://whatsapp-chat-liart.vercel.app/)
+### [Click here for live demo](https://whatsapp-chat-liart.vercel.app/)
 ## Screenshot:
 
